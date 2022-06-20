@@ -14,7 +14,7 @@ class NeedForSpeed {
             return true;
         } else {
             return false;
-        }
+
     }
 
     public int distanceDriven() {
